@@ -1,0 +1,1 @@
+Dobro, Triplo, Raiz Quadrada do número escolhido.

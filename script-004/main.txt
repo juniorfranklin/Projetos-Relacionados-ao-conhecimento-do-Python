@@ -1,0 +1,1 @@
+buscando o antecessor e o sucessor dos números.

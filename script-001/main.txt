@@ -1,0 +1,2 @@
+(JOGO DE ADIVINHAÇÃO DE NÚMEROS EM PYTHON)
+Corpo do código que faz funcionar... deve receber alterações para ficar melhor.
