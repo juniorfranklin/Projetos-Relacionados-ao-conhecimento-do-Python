@@ -8,3 +8,4 @@ print(f'É alfanumérico? {palavra.isalnum()}')
 print(f'Está em maíuscilas? {palavra.isupper()}')
 print(f'Está em mínusculas? {palavra.islower()}')
 print(f'Está capitalizada? {palavra.istitle()}')
+ 
